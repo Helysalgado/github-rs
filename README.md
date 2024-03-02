@@ -6,7 +6,7 @@ Este repositorio contiene el material de estudio y ejemplos de código utilizado
 
 Este repositorio está organizado en carpetas que corresponden a cada ejercicio realizado durante el curso. Todos los ejercicios y ejemplos implementan las buenas prácticas FAIR y buenas prácticas de desarrollo de software siguiendo PEP8.
 
-Checklist aplicado a todos los subprojectos de éste repositorio:
+A. Checklist aplicado a todos los subprojectos de éste repositorio:
 
 1. Prepare prior to the development of the software:   
 1.1. **Version control system platform : Usaremos Git y GitHub**  
@@ -36,7 +36,8 @@ Checklist aplicado a todos los subprojectos de éste repositorio:
 6. Register software on a registry  
 6.1  bio.tools registry or Research Resource Identifiers (RRID) Portal  
 
-
+B. Estructura de la carpeta de cada proyecto.
+Todo proyecto bajo éste repositorio tiene una organización interna usando una esctructura `template` basado en la carpeta `template-repo` que tiene las carpetas recomendadas como `bin, `lib`, `docs`, `results`, `test` y `src` y dentro de ellas existen plantillas para documentar y codificar siguiendo las buenas prácticas.
 
 ## Cómo utilizar este repositorio
 
